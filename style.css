@@ -226,6 +226,7 @@ label {
         content: url('./assets/images/illustration-sign-up-mobile.svg');
         border-radius: 0;
     }
+
     form{
         padding: 35px 25px;
     }
@@ -234,6 +235,7 @@ label {
         color: var(--Dark_Slate_Grey);
         margin-bottom: 20px;
     }
+
     input {
         width: 100%;
     }
@@ -256,13 +258,10 @@ label {
     .wrapper-signUp-success h1{
     font-size: 2.5rem;
     }
+
     .wrapper-signUp-success button{
     width: 100%;
     }    
     
     
 } 
-
-
-
-
