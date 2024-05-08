@@ -24,7 +24,7 @@ const hideEmailError = () => {
 
 const showConfirmPage = () => {
   wrapperSignUp.style.display = "none";
-  wrapperSuccess.style.display = "block";
+  wrapperSuccess.style.display = "flex";
   span_email_user.textContent = email_user;
 };
 
