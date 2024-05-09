@@ -33,6 +33,8 @@ const hideConfirmPage = () => {
   wrapperSignUp.style.display = "flex";
 };
 
+hideConfirmPage();
+
 let email_user = "";
 
 email.addEventListener("input", (e) => {
